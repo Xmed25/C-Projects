@@ -1,10 +1,5 @@
 // Tinkoff Bank ATM (Russian Bank)
-// select an option 
-// 1check balance
-// 2deposit money 
-// 3withdraw money
-// 4exit 
-// enter your choice 
+
 #include<stdio.h>
 
 // Functions 
