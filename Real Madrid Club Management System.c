@@ -30,9 +30,9 @@ int main(){
         {6,"Aurélien Tchouaméni",26,"Defensive Midfield","France"},
         {7,"Federico Valverde",28,"Central Midfield","Uruguay"},
         {8,"Jude Bellingham",22,"Attacking midfield","England"},
-        {9,"Arda Güler",40,"Attacking Midfield","Turkey"},
+        {9,"Arda Güler",20,"Attacking Midfield","Turkey"},
         
-        {10,"Vinicius Junior",40,"Left-Winger","Brazil"},
+        {10,"Vinicius Junior",25,"Left-Winger","Brazil"},
         {11,"Mbappe",26,"Center-Forward","France"},
         
     };
